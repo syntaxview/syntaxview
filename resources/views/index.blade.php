@@ -85,7 +85,7 @@
 
         <div class="order-first lg:order-last">
           <div class="rounded-2xl bg-gradient-to-br from-white to-slate-50 p-6 shadow-lg">
-            <img src="https://images.unsplash.com/photo-1558696521-6b2b5d8c3c14?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder" alt="product mockup" class="w-full rounded-lg object-cover h-64 sm:h-80">
+            <img src="https://imgs.search.brave.com/7EMhl9wBltUnYo0FUS5TS3CQNz6fQREAj0u5VAQROSA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iYWly/ZXNkZXYubW8uY2xv/dWRpbmFyeS5uZXQv/YmxvZy8yMDIzLzEw/L1NvZnR3YXJlLUVu/Z2luZWVyaW5nLUZp/cm1zLmpwZz90eD13/XzE5MjAscV9hdXRv" alt="product mockup" class="w-full rounded-lg object-cover h-64 sm:h-80">
           </div>
         </div>
       </div>
